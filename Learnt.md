@@ -1,4 +1,5 @@
 What i have learnt
+- css specificty
 - absolute vs relative positioning
 - rem and em units
 - element selectors and classes
@@ -12,4 +13,6 @@ What i have learnt
 - inline vs block elements (span is inline element)
 - margin-inline as shorthand to add on both side (margin-inline: 5px 10px)
 - inline-block on ul to create nav
-- 
+- columns, column-rule, column-gap, column-span
+- white-space: nowrap
+- break-inside: avoid to in same column instead of splitting
