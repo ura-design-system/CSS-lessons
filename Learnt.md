@@ -9,6 +9,7 @@ What i have learnt
 - pseudo class for anchor (link, visited, hover, active, focus)
 - HSL for anchor with alpha value
 - float and flow-root for a block container
-- inline vs block
-- margin-inline for both side (margin-inline: 5px 10px)
+- inline vs block elements (span is inline element)
+- margin-inline as shorthand to add on both side (margin-inline: 5px 10px)
 - inline-block on ul to create nav
+- 
