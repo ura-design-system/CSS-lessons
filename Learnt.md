@@ -8,3 +8,7 @@ What i have learnt
 - @import for google fonts
 - pseudo class for anchor (link, visited, hover, active, focus)
 - HSL for anchor with alpha value
+- float and flow-root for a block container
+- inline vs block
+- margin-inline for both side (margin-inline: 5px 10px)
+- inline-block on ul to create nav
